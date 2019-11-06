@@ -27,8 +27,6 @@ body {
 }
 
 
-
-
 img{
     margin: -50px;
     border-radius: 50%;
@@ -55,4 +53,8 @@ a{
     width: 320px;
     background-color: #70C5C0;
     border: 1px solid rgb(71, 84, 102);
+}
+
+h5{
+    font-size: 0.7em;
 }
